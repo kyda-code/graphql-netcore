@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "1qHiksjTFozCxFvgdvrjFTqsTnMzrJlSJYe2Mk89wJ6hfoNdAg+VXxBa5s/QvolbrsTygX/ngso84z4jTdMQ0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miguel Angel Sereno\\Projects\\ApiDemo\\GraphQLApplication\\GraphQLApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\graphql\\4.7.1\\graphql.4.7.1.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\graphql-parser\\7.2.0\\graphql-parser.7.2.0.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\graphql.microsoftdi\\4.7.1\\graphql.microsoftdi.4.7.1.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\graphql.newtonsoftjson\\4.7.1\\graphql.newtonsoftjson.4.7.1.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\graphql.server.ui.altair\\5.2.0\\graphql.server.ui.altair.5.2.0.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\graphql.server.ui.graphiql\\5.2.0\\graphql.server.ui.graphiql.5.2.0.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\graphql.server.ui.playground\\5.2.0\\graphql.server.ui.playground.5.2.0.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\graphql.server.ui.voyager\\5.2.0\\graphql.server.ui.voyager.5.2.0.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\graphql.systemtextjson\\4.7.1\\graphql.systemtextjson.4.7.1.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\microsoft.extensions.options\\2.0.0\\microsoft.extensions.options.2.0.0.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Sereno\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
